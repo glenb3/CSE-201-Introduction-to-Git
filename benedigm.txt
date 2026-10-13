@@ -1,1 +1,2 @@
-Hello World! I like chipotle. I'm going home on Thursday.
+I like chipotle. I'm going home on Thursday.
+I don't like bees.
